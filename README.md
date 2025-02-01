@@ -85,7 +85,6 @@ Create a `.env` file inside the server directory and add the following variables
 PORT=8000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-PAYPAL_CLIENT_ID=your_paypal_client_id
 STRIPE_SECRET_KEY=your_stripe_secret_key
 RAZORPAY_KEY_ID=your_razorpay_key
 RAZORPAY_SECRET=your_razorpay_secret
@@ -123,7 +122,6 @@ The client should be running on `http://localhost:3000`, and the server should b
 | GET    | /api/orders/:id      | Fetch order details    |
 | POST   | /api/orders          | Create a new order     |
 | POST   | /api/payments/stripe | Stripe payment process |
-| POST   | /api/payments/paypal | PayPal payment process |
 
 ---
 

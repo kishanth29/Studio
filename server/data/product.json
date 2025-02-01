@@ -1,0 +1,419 @@
+[
+  {
+    "name": "Classic Wedding Package",
+    "price": 1500.0,
+    "description": "Essential wedding photography package covering the ceremony, group photos, and reception highlights.",
+    "ratings": 4.5,
+    "images": [
+      { "image": "/images/wedding/w1.jpg" },
+      { "image": "/images/wedding/w2.jpg" }
+    ],
+    "category": "Wedding",
+    "seller": "Studio Owner",
+    "stock": 4,
+    "numOfReviews": 18,
+    "reviews": [],
+    "bookingDate": "2025-01-22T00:00:00.000Z"
+  },
+  {
+    "name": "Elegant Wedding Package",
+    "price": 2800.0,
+    "description": "Premium wedding photography with full-day coverage, candid shots, and a personalized photo book.",
+    "ratings": 4.9,
+    "images": [
+      { "image": "/images/wedding/w3.jpg" },
+      { "image": "/images/wedding/w5.jpg" }
+    ],
+    "category": "Wedding",
+    "seller": "Studio Owner",
+    "stock": 2,
+    "numOfReviews": 40,
+    "reviews": [],
+    "bookingDate": "2025-02-05T00:00:00.000Z"
+  },
+  {
+    "name": "Luxury Wedding Package",
+    "price": 3500.0,
+    "description": "Exclusive wedding package with two photographers, drone coverage, and a luxury photo album.",
+    "ratings": 5.0,
+    "images": [
+      { "image": "/images/wedding/w4.jpg" },
+      { "image": "/images/wedding/w1.jpg" }
+    ],
+    "category": "Wedding",
+    "seller": "Studio Owner",
+    "stock": 1,
+    "numOfReviews": 12,
+    "reviews": [],
+    "bookingDate": "2025-03-15T00:00:00.000Z"
+  },
+  {
+    "name": "Destination Wedding Package",
+    "price": 5000.0,
+    "description": "Destination wedding photography package with travel included, covering all events and a custom video highlight reel.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/wedding/w2.jpg" },
+      { "image": "/images/wedding/w5.jpg" }
+    ],
+    "category": "Wedding",
+    "seller": "Studio Owner",
+    "stock": 3,
+    "numOfReviews": 22,
+    "reviews": [],
+    "bookingDate": "2025-04-10T00:00:00.000Z"
+  },
+
+  {
+    "name": "Traditional Puberty Ceremony Package",
+    "price": 600.0,
+    "description": "Comprehensive photography package capturing traditional puberty rituals with a focus on cultural authenticity and respect.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/photography/pu3.jpg" },
+      { "image": "/images/photography/pu4.jpg" }
+    ],
+    "category": "Puberty",
+    "seller": "Studio Owner",
+    "stock": 5,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-02-01T00:00:00.000Z"
+  },
+  {
+    "name": "Modern Puberty Celebration Package",
+    "price": 700.0,
+    "description": "A modern take on puberty celebrations, including candid moments and professional event coverage with custom photo albums.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/photography/pu1.jpg" },
+      { "image": "/images/photography/pu5.jpg" }
+    ],
+    "category": "Puberty",
+    "seller": "Studio Owner",
+    "stock": 4,
+    "numOfReviews": 30,
+    "reviews": [],
+    "bookingDate": "2025-02-10T00:00:00.000Z"
+  },
+  {
+    "name": "Family Puberty Celebration Package",
+    "price": 650.0,
+    "description": "Family-oriented package capturing the joy of coming-of-age ceremonies with a focus on family interactions and group portraits.",
+    "ratings": 4.6,
+    "images": [
+      { "image": "/images/photography/pu2.jpg" },
+      { "image": "/images/photography/pu3.jpg" }
+    ],
+    "category": "Puberty",
+    "seller": "Studio Owner",
+    "stock": 6,
+    "numOfReviews": 18,
+    "reviews": [],
+    "bookingDate": "2025-02-15T00:00:00.000Z"
+  },
+  {
+    "name": "Elite Puberty Celebration Package",
+    "price": 800.0,
+    "description": "Elite package offering full-day coverage with professional editing, personalized photo books, and a custom video montage of the event.",
+    "ratings": 4.9,
+    "images": [
+      { "image": "/images/photography/pu5.jpg" },
+      { "image": "/images/photography/pu3.jpg" }
+    ],
+    "category": "Puberty",
+    "seller": "Studio Owner",
+    "stock": 3,
+    "numOfReviews": 12,
+    "reviews": [],
+    "bookingDate": "2025-03-01T00:00:00.000Z"
+  },
+
+  {
+    "name": "Classic Birthday Celebration Package",
+    "price": 650.0,
+    "description": "Capture the essence of birthday celebrations with traditional photo coverage and a highlight video.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/birthday/b1.jpg" },
+      { "image": "/images/birthday/b5.jpg" }
+    ],
+    "category": "Birthday",
+    "seller": "Studio Owner",
+    "stock": 6,
+    "numOfReviews": 20,
+    "reviews": [],
+    "bookingDate": "2025-02-05T00:00:00.000Z"
+  },
+  {
+    "name": "Deluxe Birthday Party Package",
+    "price": 800.0,
+    "description": "Deluxe package with full-day coverage, custom themes, and a personalized photo album.",
+    "ratings": 5.0,
+    "images": [
+      { "image": "/images/birthday/b7.jpg" },
+      { "image": "/images/birthday/b6.jpg" }
+    ],
+    "category": "Birthday",
+    "seller": "Studio Owner",
+    "stock": 4,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-02-12T00:00:00.000Z"
+  },
+  {
+    "name": "Kids Birthday Special Package",
+    "price": 700.0,
+    "description": "A special package designed for children's birthdays with fun props, candid shots, and interactive sessions.",
+    "ratings": 4.9,
+    "images": [
+      { "image": "/images/birthday/b2.jpg" },
+      { "image": "/images/birthday/b3.jpg" }
+    ],
+    "category": "Birthday",
+    "seller": "Studio Owner",
+    "stock": 5,
+    "numOfReviews": 28,
+    "reviews": [],
+    "bookingDate": "2025-02-20T00:00:00.000Z"
+  },
+  {
+    "name": "Luxury Milestone Birthday Package",
+    "price": 1200.0,
+    "description": "Luxury package for milestone birthdays including professional video coverage, drone shots, and a custom portrait session.",
+    "ratings": 4.7,
+    "images": [
+      { "image": "/images/birthday/b8.jpg" },
+      { "image": "/images/birthday/b4.jpg" }
+    ],
+    "category": "Birthday",
+    "seller": "Studio Owner",
+    "stock": 2,
+    "numOfReviews": 10,
+    "reviews": [],
+    "bookingDate": "2025-03-10T00:00:00.000Z"
+  },
+  {
+    "name": "Classic Model Portfolio Package",
+    "price": 1400.0,
+    "description": "Create a professional portfolio with classic and timeless headshots, fashion looks, and personal branding.",
+    "ratings": 4.8,
+    "images": [
+      { "image": "/images/model/m1.jpg" },
+      { "image": "/images/model/m2.jpg" }
+    ],
+    "category": "ModelShoot",
+    "seller": "Studio Owner",
+    "stock": 5,
+    "numOfReviews": 35,
+    "reviews": [],
+    "bookingDate": "2025-02-05T00:00:00.000Z"
+  },
+  {
+    "name": "Fashion Model Portfolio Package",
+    "price": 1800.0,
+    "description": "Tailored for aspiring fashion models, this package includes runway-inspired shoots and editorial style photography.",
+    "ratings": 5.0,
+    "images": [
+      { "image": "/images/model/m3.jpg" },
+      { "image": "/images/model/m4.jpg" }
+    ],
+    "category": "ModelShoot",
+    "seller": "Studio Owner",
+    "stock": 4,
+    "numOfReviews": 40,
+    "reviews": [],
+    "bookingDate": "2025-02-15T00:00:00.000Z"
+  },
+  {
+    "name": "Glamour Model Portfolio Package",
+    "price": 2000.0,
+    "description": "Specialized beauty and glamour portfolio package featuring professional makeup, lighting, and artistic styling.",
+    "ratings": 4.9,
+    "images": [
+      { "image": "/images/model/m5.jpg" },
+      { "image": "/images/model/m1.jpg" }
+    ],
+    "category": "ModelShoot",
+    "seller": "Studio Owner",
+    "stock": 3,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-03-01T00:00:00.000Z"
+  },
+  {
+    "name": "Elite Model Portfolio Package",
+    "price": 2500.0,
+    "description": "Premium portfolio package for professional models, including high-end styling, location shoots, and personalized consultation.",
+    "ratings": 5.0,
+    "images": [
+      { "image": "/images/model/m4.jpg" },
+      { "image": "/images/model/m1.jpg" }
+    ],
+    "category": "ModelShoot",
+    "seller": "Studio Owner",
+    "stock": 2,
+    "numOfReviews": 15,
+    "reviews": [],
+    "bookingDate": "2025-03-15T00:00:00.000Z"
+  },
+
+  {
+    "name": "Basic Graduation Portrait Package",
+    "price": 400.0,
+    "description": "Celebrate your academic achievements with a graduation portrait session.",
+    "ratings": 4.3,
+    "images": [{ "image": "/images/graduation/g1.jpg" }],
+    "category": "Graduation",
+    "seller": "Studio Owner",
+    "stock": 8,
+    "numOfReviews": 12,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Enhanced Graduation Portrait Package",
+    "price": 450.0,
+    "description": "Enhanced graduation package with additional group shots and location options.",
+    "ratings": 4.5,
+    "images": [{ "image": "/images/graduation/g2.jpg" }],
+    "category": "Graduation",
+    "seller": "Studio Owner",
+    "stock": 7,
+    "numOfReviews": 18,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Premium Graduation Portrait Package",
+    "price": 500.0,
+    "description": "Premium graduation package including personalized edits, multiple outfits, and a private session.",
+    "ratings": 4.8,
+    "images": [{ "image": "/images/graduation/g4.jpg" }],
+    "category": "Graduation",
+    "seller": "Studio Elite",
+    "stock": 5,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-01-25T00:00:00.000Z"
+  },
+  {
+    "name": "Deluxe Graduation Portrait Package",
+    "price": 600.0,
+    "description": "Deluxe package featuring an outdoor session, group photos, and a professional album.",
+    "ratings": 4.9,
+    "images": [{ "image": "/images/graduation/g1.jpg" }],
+    "category": "Graduation",
+    "seller": "Creative Memories Studio",
+    "stock": 3,
+    "numOfReviews": 30,
+    "reviews": [],
+    "bookingDate": "2025-01-30T00:00:00.000Z"
+  },
+
+  {
+    "name": "Essential Event Photography Package",
+    "price": 1500.0,
+    "description": "Comprehensive coverage for special events, including parties, anniversaries, and celebrations.",
+    "ratings": 4.9,
+    "images": [{ "image": "/images/events/E1.jpg" }],
+    "category": "Events",
+    "seller": "Studio Owner",
+    "stock": 4,
+    "numOfReviews": 30,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Deluxe Event Photography Package",
+    "price": 1550.0,
+    "description": "Deluxe event photography package with video coverage and custom editing.",
+    "ratings": 4.8,
+    "images": [{ "image": "/images/events/E2.jpg" }],
+    "category": "Events",
+    "seller": "Studio Owner",
+    "stock": 3,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Exclusive Event Photography Package",
+    "price": 1800.0,
+    "description": "Exclusive package featuring high-resolution images, drone shots, and premium edits for your special event.",
+    "ratings": 4.7,
+    "images": [{ "image": "/images/events/E3.jpg" }],
+    "category": "Events",
+    "seller": "Studio Owner",
+    "stock": 2,
+    "numOfReviews": 20,
+    "reviews": [],
+    "bookingDate": "2025-01-25T00:00:00.000Z"
+  },
+  {
+    "name": "Luxury Event Photography Package",
+    "price": 2000.0,
+    "description": "Luxury package offering a full-day coverage, professional video production, and a custom-designed album.",
+    "ratings": 4.9,
+    "images": [{ "image": "/images/events/E4.jpg" }],
+    "category": "Events",
+    "seller": "Studio Owner",
+    "stock": 1,
+    "numOfReviews": 35,
+    "reviews": [],
+    "bookingDate": "2025-01-30T00:00:00.000Z"
+  },
+
+  {
+    "name": "Digital Painting ",
+    "price": 1000.0,
+    "description": "Transform your photos into stunning digital paintings with a professional touch.",
+    "ratings": 4.7,
+    "images": [{ "image": "/images/digital/digital_4.jpg" }],
+    "category": "DigitalPainting",
+    "seller": "Studio Owner",
+    "stock": 10,
+    "numOfReviews": 15,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Digital Faceless",
+    "price": 1100.0,
+    "description": "Premium digital painting package with multiple styles and framing options.",
+    "ratings": 4.9,
+    "images": [{ "image": "/images/digital/digital_3.jpg" }],
+    "category": "DigitalPainting",
+    "seller": "Studio Owner",
+    "stock": 8,
+    "numOfReviews": 20,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Digital Faceless couple",
+    "price": 1200.0,
+    "description": "Exclusive digital painting package with custom design options and priority service.",
+    "ratings": 4.8,
+    "images": [{ "image": "/images/digital/digital_2.jpg" }],
+    "category": "DigitalPainting",
+    "seller": "Studio Owner",
+    "stock": 5,
+    "numOfReviews": 25,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  },
+  {
+    "name": "Digital Drawing ",
+    "price": 1300.0,
+    "description": "Luxury digital painting package with exclusive artist collaborations and high-quality prints.",
+    "ratings": 5.0,
+    "images": [{ "image": "/images/digital/digital_1.jpg" }],
+    "category": "DigitalPainting",
+    "seller": "Studio Owner",
+    "stock": 3,
+    "numOfReviews": 30,
+    "reviews": [],
+    "bookingDate": "2025-01-20T00:00:00.000Z"
+  }
+]
